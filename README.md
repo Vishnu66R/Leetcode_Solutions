@@ -19,8 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
