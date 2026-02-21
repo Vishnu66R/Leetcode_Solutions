@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0290-word-pattern) |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
