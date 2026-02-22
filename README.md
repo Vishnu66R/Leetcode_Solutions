@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0290-word-pattern) |
 ## Hash Table
@@ -33,4 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
