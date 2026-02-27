@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0383-ransom-note) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0027-remove-element) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Vishnu66R/Leetcode_Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
